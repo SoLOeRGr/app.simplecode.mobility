@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "simplecode.mobility",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

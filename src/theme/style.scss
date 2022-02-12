@@ -1,0 +1,22 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+ion-header {
+
+    ion-title {
+        font-size: 1.2rem;
+        background: linear-gradient( 
+            rgba( var(--ion-color-primary-shade-rgb), 1 ), 
+            rgba( var(--ion-color-primary-shade-rgb), .6 ) 
+        );
+    }
+
+    ion-toolbar {
+        --background: transparent;
+        --ion-color-base: transparent !important;
+    }
+}
